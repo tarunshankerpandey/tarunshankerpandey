@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tarun Shanker Pandey
+- 👀 I’m interested in Website Developement
+- 🌱 I’m currently learning Usage of AI in Blockchain Technologies and Data Representation 
+- 💞️ I’m looking to collaborate on Web Designing, Web Developemnt and AI Technologies 
+- 📫 You can reach me at tarunshankerpandey[at]ymail.com or +91-942-571-5006
